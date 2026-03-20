@@ -8,8 +8,7 @@
         "cwd": ".",
         "env": {
           "SCAN_MODE": "block",
-          "SCAN_SCOPE": "diff",
-          "EXCLUDED_DIRS": ".github/,demo/"
+          "SCAN_SCOPE": "diff"
         },
         "timeoutSec": 30
       }
